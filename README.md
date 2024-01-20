@@ -14,7 +14,8 @@ Skills: PYTHON/ C++ / JS / HTML / CSS
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/omin23)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/omkar-nayak-umk//) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/omi.n_//)  
 
-|![GitHub streak stats](https://streak-stats.demolab.com/?user=omin23) <a href="https://github.com/omin23/github-readme-stats"><img align="top" height =200px width = 500px src="https://github-readme-stats.vercel.app/api/top-langs/?username=omin23&layout=compact&theme=buefy&hide_border=true" /></a> |
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omin23&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
